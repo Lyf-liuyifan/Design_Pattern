@@ -3,6 +3,3 @@
 #include <string>
 #include <fstream>
 
-struct Journal {
-
-};
